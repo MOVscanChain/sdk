@@ -1,0 +1,11 @@
+{
+  "name": "movscan",
+  "version": "0.1.0",
+  "description": "Global RAM price scanner",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "movscan": "./index.js"
+  },
+  "dependencies": {}
+}
